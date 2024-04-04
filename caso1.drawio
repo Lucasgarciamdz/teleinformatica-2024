@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net" modified="2024-04-04T12:49:35.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ivXKz17vq6fIhHkgp32Q" version="24.2.1" type="device">
+  <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
+    <mxGraphModel dx="1147" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-1" value="" style="shape=mxgraph.cisco.routers.10700;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="359" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-2" value="" style="shape=mxgraph.cisco.routers.10700;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="359" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-3" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="353.5" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-4" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="353.5" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-5" value="" style="shape=mxgraph.cisco.people.androgenous_person;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="330" width="69" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-6" value="r0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-9" value="s11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-11" value="r1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="479" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-13" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;192.168.100.1/29&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="375" width="159" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-14" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;10.0.1.1/24&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="375" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-15" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;192.168.100.6/29&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="369.5" width="122" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-16" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;10.0.1.254/24&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="375" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-18" value="" style="shape=mxgraph.cisco.routers.10700;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="539" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-19" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="533.5" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-20" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="533.5" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-21" value="" style="shape=mxgraph.cisco.people.androgenous_person;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="510" width="69" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-24" value="s21" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="262" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-26" value="r2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="479" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-28" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;192.168.100.9/29&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="555" width="159" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-29" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;10.0.2.1/24&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="555" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-30" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;192.168.100.14/29&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="79" y="458" width="122" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-31" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;10.0.2.254/24&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="555" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-32" value="s22" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="674" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-33" value="s12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-35" value="h11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="934.5" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-36" value="h21" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-39" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8EtFlCsksFl-GMj9Htkd-2" target="8EtFlCsksFl-GMj9Htkd-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="490" as="sourcePoint" />
+            <mxPoint x="490" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="490" />
+              <mxPoint x="320" y="500" />
+              <mxPoint x="300" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-40" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;r1-eth11&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="325" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-41" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;r0-eth11&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="319.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-42" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;r1-eth21&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="319.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8EtFlCsksFl-GMj9Htkd-43" value="&lt;div style=&quot;color: #babed8;background-color: #292d3e;font-family: &#39;FiraCode NERD FONT&#39;, Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 24px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;h11-eth0&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="325" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
